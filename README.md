@@ -3,14 +3,14 @@
 Developer: mitkonaft games. Bundle: `com.mitkonaft.chessprodigy`. Apple ID: `6823743809`.
 
 - Privacy policy: https://mitkonaft.github.io/chess-prodigy-legal/
-- Stockfish source and license: https://mitkonaft.github.io/chess-prodigy-legal/stockfish-license/
-- Support and source requests: ak.onfire@mail.ru
+- Stockfish source and license: https://github.com/mitkonaft/chess-prodigy-legal
+- Support and source requests: mitkonaft@gmail.com
 
 ## Stockfish source distribution and source offer
 
 The included Stockfish 19 chess engine is distributed under GNU GPL version 3 or, at your option, any later version, as specified in its source notices. The full GPLv3 text is in `stockfish-license/LICENSE.txt`; upstream copyright notices and AUTHORS are preserved. The developer-supplied Stockfish configuration and bridge in this source package are provided under GPLv3-or-later, with existing notices preserved. This does not relicense third-party SDKs or unrelated application assets.
 
-Use [the source directory](stockfish-license/) or download this repository with GitHub **Code → Download ZIP**. The package contains the actual Stockfish sources from the current app workspace, local configuration, Objective-C++ bridge, build settings, and the exact NNUE file. `stockfish-license/SHA256SUMS` identifies every packaged file. See its README for rebuilding and integration details.
+Use https://github.com/mitkonaft/chess-prodigy-legal or download this repository with GitHub **Code → Download ZIP**. The package contains the actual Stockfish sources from the current app workspace, local configuration, Objective-C++ bridge, build settings, and the exact NNUE file. `stockfish-license/SHA256SUMS` identifies every packaged file. See its README for rebuilding and integration details.
 
 mitkonaft games offers recipients access at no charge to the corresponding Stockfish engine source and local modifications through this repository. If the download is unavailable, email ak.onfire@mail.ru with the app version/build to request an electronic copy at no charge. We will honor this source offer for at least three years after the last distribution of the corresponding build, and longer where GPLv3 requires it. Preserve version-specific source snapshots when shipping updates.
 
